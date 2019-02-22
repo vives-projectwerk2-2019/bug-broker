@@ -1,0 +1,19 @@
+{
+  "name": "bug-broker",
+  "version": "1.0.0",
+  "description": "Mqtt broker that powers all of bug-api",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vives-projectwerk2-2019/bug-broker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vives-projectwerk2-2019/bug-broker/issues"
+  },
+  "homepage": "https://github.com/vives-projectwerk2-2019/bug-broker#readme"
+}
