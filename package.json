@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vives-projectwerk2-2019/bug-broker/issues"
   },
-  "homepage": "https://github.com/vives-projectwerk2-2019/bug-broker#readme"
+  "homepage": "https://github.com/vives-projectwerk2-2019/bug-broker#readme",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
 }
