@@ -11,3 +11,7 @@ server.on('ready', setup);
 function setup() {
     console.log('Mosca broker is up and running')
 }
+
+server.on('clientConnected', function(client) {
+    console.log('client connected', client.id);
+});
